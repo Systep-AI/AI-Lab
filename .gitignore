@@ -1,0 +1,10 @@
+# Typical files to ignore
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints
+*.log
+.vscode/
+
+# Specific files
+.env
+.codegpt
