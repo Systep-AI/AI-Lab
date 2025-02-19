@@ -2,15 +2,7 @@
 
 Este repositorio contiene diversos recursos y ejemplos prácticos sobre Inteligencia Artificial Generativa y su aplicación en el procesamiento de documentos. A continuación se describe la estructura principal y el contenido de cada carpeta:
 
-## Estructura Principal
-
-- **LICENSE.md**  
-  Archivo que especifica la licencia bajo la cual se distribuye este repositorio.
-  
-- **README.md**  
-  Este documento, que proporciona una visión general del repositorio.
-
-- **generative_ai**  
+## Estructura Principal- **generative_ai**  
   Carpeta principal donde se encuentran los notebooks y recursos relacionados con IA Generativa:
   - **00_intro_ia_generativa.ipynb**  
     Notebook de introducción a la IA Generativa, describiendo conceptos básicos y casos de uso.

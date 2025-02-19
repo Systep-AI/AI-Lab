@@ -1,0 +1,180 @@
+
+
+# GO N° 231/2024
+
+Santiago, 30 de diciembre de 2024
+
+Senor
+
+Rodrigo Espinoza V.
+
+Gerente de Operacion
+
+Coordinador Eléctrico Nacional
+
+Presente
+
+Mat.: Responde requerimiento de informacion.
+
+Ant.: Carta DE06365-24, de fecha 2 de diciembre de 2024.
+
+De nuestra consideracion,
+
+Por medio de la presente, y encontrandonos dentro de plazo, damos respuesta al requerimiento de informacion formulado por este Coordinador Independiente del Sistema Electrico Nacional (“Coordinador”) en el Ant., emitido en el contexto de los hallazgos informados por mi representada mediante carta GO N°193/2024, obtenidos en el marco de la inspeccion en la caldera de la unidad de generacion Nehuenco II durante el Mantenimiento Mayor realizado entre el 22 de septiembre y el 20 de noviembre del presente ano.
+
+Con el proposito de dar cumplimiento a lo prescrito, mediante la presente procedo a entregar al Coordinador la informacion indicada en el Ant., segun el detalle que se indica a continuacion:
+
+1. Informe de los especialistas que realizaron la inspección del HRSG de Nehuenco II, incluyendo la totalidad de los hallazgos de “tubos rotos” (81), donde señale al menos el tipo de rotura para cada caso, incluido los registros fotográficos.
+
+Se adjunta documento nominado “2024.10.17 Reporte Hallazgos y Reparaciones Caldera HRSG Nehuenco II”, que da cuenta de la inspeccion de la caldera HRSG de Nehuenco II, realizado por nuestros especialistas. En el documento se indica la totalidad de los hallazgos de “tubos rotos”, especificando tipo de rotura para cada caso e incluyendo los registros fotograficos respectivos.
+
+Debemos precisar que, si bien en una primera oportunidad se reportaron 81 “tubos rotos”, luego de efectuar los ensayos no destructivos con la empresa S-INTEC se constato que el total de tubos afectados fueron 84 unidades (equivalente al 12% del total de tubos de las etapas afectadas), conforme al siguiente detalle:
+
+- 6 tubos rotos (se encontraron con grieta y ruptura del material) y 20 tubos con fisuras en el Sobrecalentador 2 de alta presion.
+- 37 tubos en el Economizador de alta presion con indicaciones de fisuras.
+
+1 Los ensayos fueron realizados por la empresa Inspecciones Técnicas S-Intec Limitada, contratista externo a Colbún que se se desempeña en el área de inspecciones técnicas industriales, control de calidad, ensayos no destructivos y certificación de productos combustibles. En adjuntos se deja disponible un link a una carpeta con los informes entregados por S-INTEC de todas las partes en que se encontraron fallas. Estos Ensayos No Destructivos se hicieron antes y después de la reparación.
+
+2 2024.10.17 Reporte Hallazgos y Reparaciones Caldera HRSG Nehuenco II, pp. 4 a 7.
+
+3 2024.10.17 Reporte Hallazgos y Reparaciones Caldera HRSG Nehuenco II, pp. 13 y 16.
+
+# Informe de reparación de los “tubos rotos”
+
+Indicando el estado del tubo, ubicación, tipo y características de la falla y el tipo de reparación efectuada (detallar claramente ubicación y número de tubos extraídos).
+
+Se adjunta documento nominado “2024.10.17 Reporte Hallazgos y Reparaciones Caldera HRSG Nehuenco II”, que da cuenta de la reparación de los “tubos rotos”. En términos generales, las actividades de reparación consistieron en lo siguiente:
+
+- Respecto de los 26 tubos rotos en el Sobrecalentador 2 de alta presión. La reparación consistió en cortar el tubo afectado unos 200 mm, mecanizar las áreas para soldar y unir los tubos al cabezal, efectuar tratamiento térmico y ensayos no destructivos para validar reparación.
+- Respecto de los 37 tubos en el Economizador de alta presión. Estos tubos presentaron indicaciones de grietas, es decir, son fisuras superficiales, las cuales fueron mecanizadas superficialmente para eliminarlas y luego aportar soldadura al material y realizar ensayos no destructivos para validar la reparación.
+- Respecto de los 3 tubos del Economizador de Media Presión. Estos tubos presentaron indicaciones de grietas, es decir, son fisuras superficiales, las cuales fueron mecanizadas superficialmente para eliminarlas y luego aportar soldadura al material y realizar ensayos no destructivos para validar la reparación.
+- 18 tubos del Evaporador de Media Presión. Estos tubos presentaron indicaciones de grietas, es decir, son fisuras superficiales, las cuales fueron mecanizadas superficialmente para eliminarlas y luego aportar soldadura al material y realizar ensayos no destructivos para validar la reparación.
+
+# Consideraciones sobre la magnitud de los hallazgos
+
+Considerando la magnitud de los hallazgos en cuanto a la totalidad de tubos rotos informados, solicitamos indicar la razón para no requerir un mayor plazo en el Mantenimiento Mayor.
+
+No fue requerida una extensión de plazo de la indisponibilidad programada de 60 días para realizar el Cambio del Sistema de Control Distribuido DCS y Mantenimiento del BOP de la unidad Nehuenco II, ya que los hallazgos en la Caldera HRSG fueron detectados al inicio de esta indisponibilidad. Asimismo, los hallazgos con grieta pasante fueron en 6 tubos y el daño en los otros 78 tubos restantes fue de menor magnitud, lo que significó una reparación dentro del período de indisponibilidad programada, sumado a que en el sitio se disponía del material de los tubos del Sobrecalentador 2.
+
+4 Ídem.
+
+5 Ídem.
+
+6 2024.10.17 Reporte Hallazgos y Reparaciones Caldera HRSG Nehuenco II, pp. 6 a 11.
+
+7 2024.10.17 Reporte Hallazgos y Reparaciones Caldera HRSG Nehuenco II, pp. 15 a 17.
+
+8 Ídem.
+
+9 Ídem.
+
+# iv.
+
+Informar conforme a los hallazgos, las características de las fallas y las razones técnicas o fenómeno metalúrgico que les permite indicar en cada caso, que estos fenómenos de falla pudieran corresponder, a una fatiga termo-mecánica asociada al mayor ciclado.
+
+De acuerdo con lo señalado en los reportes del DICTUC10 y del fabricante John Cockerill11 de la Caldera de Nehuenco II, la falla de los tubos del Sobrecalentador 2 de alta presión se debe a los mecanismos de creep y fatiga y la combinación de estos debido al envejecimiento térmico y los ciclos de carga, los que se intensifican por efecto del alto ciclado operativo.
+
+Al respecto, el DICTUC procesó las piezas del Sobrecalentador 2 que se señalan a continuación para realizar diferentes análisis físico, químico y mecánicos, que dieron cuenta sobre el estado de envejecimiento actual, desde el punto de vista de materialidad. Cabe señalar que estas piezas fueron extraídas en octubre del año 2024, siendo removidas del sistema por la falla evidenciada durante el Mantenimiento Mayor.
+
+71(77
+
+| |(a)|F1| |
+|---|---|---|---|
+|(b)|F2|72 Dizu 9| |
+| | |(c)|N|
+
+Figura 18. Registro fotográfico inicial para muestras (a) T1-F4, (b) T2-F3, y (c) T2-F4 provenientes de NEH-2.
+
+Así, el DICTUC realizó y obtuvo los siguientes análisis y resultados:
+
+- Inspección visual. Las piezas fueron escaneadas mediante un perfilómetro óptimo con el fin de observar su topografía superficial y características de fractura. Todas las piezas presentan una zona de fractura (indicadas con el rectángulo rojo en la figura).
+
+10 Véase el capítulo 6.3 de las páginas 24 y siguientes, y capítulos 7.3, 8 y 9 desde la página 40 hasta la página 61 del Informe titulado “Estudio en HRSG NEH-1 y NEH-2: Afectación de materiales de elementos críticos por modificación en ciclos de arranque”, elaborado por DICTUC.
+
+11 Véase capítulo 2.2.2. de las páginas 26 y siguientes, y capítulos 4.0 y 5.0 de las páginas 41 a 43, todos del Informe titulado “Critical revamping and assessments – availability and reliability of Nehuenco HRSGs”, elaborado por John Cockerill.
+
+# Análisis de composición química elemental
+
+Se tomaron muestras en tres zonas aleatorias a lo largo de cada pieza. Las muestras fueron medidas por medio de un espectrometro de emision optica por descarga luminiscente previamente calibrado para analisis de composicion química de hierro. El material de todas las muestras difiere ligeramente en su contenido de cromo y molibdeno respecto a un grado P91 de acuerdo con lo que indica la norma ASTM A335/335M-24a.
+
+# Ensayo de tracción uniaxial
+
+Estos ensayos fueron realizados a una probeta de material desde la seccion longitudinal de cada pieza. A partir de estos ensayos se obtuvo el límite de fluencia, resistencia a la traccion y alargamiento maximo en 50 mm para cada material. Se observa que “no se cumplen los valores mínimos de tensión de fluencia para las muestras T1F4 y T2F4, presentado deficiencias del 36% y el 9% respecto a lo requerido, respectivamente. Asimismo, los valores mínimos de alargamiento no se alcanzan en el material de la muestra T1F4 con una reducción del 14%”12.
+
+# Análisis metalográfico
+
+Se busca observar la microestructura del metal. Se tomaron muestras aleatorias a lo largo de la pieza y se analizo la seccion transversal de una muestra extraída desde el area de fractura de las piezas. “A partir de las imágenes se observa en todos los casos la fase ferrita (áreas claras), típica para la microestructura del material, de un tamaño de grano de hasta 20 um, Adicionalmente, también es posible observar la presencia de carburos (puntos oscuros) dispersos en la matriz ferrítica, lo cual es consistente con la descomposición de la fase perlita en este tipo de aceros por envejecimiento térmico”3.
+
+Adicionalmente, en todas las muestras extraídas del area de falla se observa la “presencia de cavidades en el material consistente con un nivel 2 de creep en estas áreas, así como también, la presencia de ferrita y carburos presentes en los bordes de grano del material asociado a un envejecimiento térmico avanzado”4, lo que puede explicar la causa de falla en esta zona.
+
+# Microdureza
+
+Se realizaron mediciones sobre un duplicado de las muestras preparadas para analisis metalografico. Se observa que las muestras analizadas lejanas a las fracturas se encuentran dentro de lo requerido por la norma ASTM A335/335M-24a en terminos de dureza. Sin embargos, aquellas extraídas desde la zona de fracturas otorgan resultados variables. “Los valores de dureza en el caso de las muestras T1F4 y T2F4 son al menos un 10% menor en comparación al mismo material en una zona lejos de fractura, lo cual podría indicar un deterioro en las propiedades físicas del material”5.
+
+# Referencias
+
+1. Estudio en HRSG NEH-1 y NEH-2: Afectación de materiales de elementos críticos por modificación en ciclos de arranque, elaborado por DICTUC, p. 47.
+2. Estudio en HRSG NEH-1 y NEH-2: Afectación de materiales de elementos críticos por modificación en ciclos de arranque, elaborado por DICTUC, p. 48.
+3. Estudio en HRSG NEH-1 y NEH-2: Afectación de materiales de elementos críticos por modificación en ciclos de arranque, elaborado por DICTUC, p. 50.
+4. Estudio en HRSG NEH-1 y NEH-2: Afectación de materiales de elementos críticos por modificación en ciclos de arranque, elaborado por DICTUC, p. 48.
+
+En base a los analisis mencionados, y la informacion disponible, el DICTUC obtiene las siguientes conclusiones de relevancia para lo solicitado por el Coordinador:
+
+- Desde su concepcion, el diseno y los materiales de Nehuenco II limitan la unidad a un maximo de 25 ciclos de encendido por ano, lo que refleja las limitaciones inherentes del material y su configuracion estructural para resistir los efectos combinados de fatiga y envejecimiento termico.
+- Los resultados del analisis probabilístico realizado, junto con las fallas registradas en el ano 2024, evidencian los efectos acumulativos del dano, especialmente creep, que ha generado concentradores de esfuerzos observados en los analisis de laboratorio.
+- Los elementos críticos con mayor dano acumulado fueron los tubos del sobrecalentador identificados como los mas susceptibles de fallas16.
+- Cada ciclo adicional de operacion (encendido/apagado) tiene un impacto acumulativo significativo, acelerando la tasa de dano de Nehuenco II17.
+
+Por su parte, John Cockerill se refiere al aumento de los índices de reparación del Sobrecalentador 2 y el consumo de su vida útil a causa de creep y fatiga de la siguiente manera18:
+
+|Texto del informe|Traducción libre|
+|---|---|
+|“In recent years, there has been a noticeable increase in repair rates for the HP superheater 2 and the economizers, primarily focused on addressing leaks at the tube-to-header connections. In total 81 tubes have been repaired and follow continuous survey.|“En los últimos años, se ha producido un notable aumento de los índices de reparación del sobrecalentador HP 2 y de los economizadores, centrado principalmente en solucionar las fugas en las conexiones tubo-cabezal. En total, se han reparado 81 tubos y se siguen inspeccionando continuamente.|
+|For the HP superheater 2 header, additional damages in the header itself have been reported (guides, supports, auxiliaries).|En el caso del cabezal del sobrecalentador HP 2, se han notificado daños adicionales en el propio cabezal (guías, soportes, auxiliares).|
+|A root cause analysis of these failures indicates an advanced state of creep in the material, characterized by extensive wear and a significantly reduced remaining lifespan.|Un análisis de las causas de estos fallos indica un avanzado estado de “creep” en el material, caracterizado por un gran desgaste y una reducción significativa de la vida útil restante.|
+|During the first year in base load, and in recent years during part load (high temperature),|Durante el primer año en carga base, y en los últimos años durante el funcionamiento en carga parcial (alta temperatura),|
+
+16 Estudio en HRSG NEH-1 y NEH-2: Afectación de materiales de elementos críticos por modificación en ciclos de arranque, elaborado por DICTUC, p. 56.
+
+17 Estudio en HRSG NEH-1 y NEH-2: Afectación de materiales de elementos críticos por modificación en ciclos de arranque, elaborado por DICTUC, p. 59.
+
+18 Critical Revampings and Assessments - Availability and Reliability of Nehuenco HRSGs, emitido por John Cockerill, p.26.
+
+temperature) operation, creep lifespan has been consumed. Now, due to creep-fatigue interaction, fatigue lifespan is considerably shorter, so further tube-to-header welding failures are expected due to shutdown cycles.
+
+Adicionalmente, realizando proyecciones con una operacion de alto ciclado, John Cockerill concluye que esta operacion reduciría la vida util tecnica de la unidad Nehuenco II en un factor de 7,8 veces. Al respecto, el informe senala lo siguiente19:
+
+|Texto del informe|Traducción libre|
+|---|---|
+|“In conclusion, operating with a very high number of starts considerably reduces the lifetime of the SHP outlet. We go from a lifetime of 2060 to 2023.”|“En conclusión, el funcionamiento con un número muy elevado de arranques reduce considerablemente la vida útil de la salida SHP. Pasamos de una vida útil de 2060 a 2023.”|
+
+v. Se requiere el envío de los informes solicitados al DICTUC y a John Cockerill. Se adjunta informe de DICTUC, titulado “Estudio en HRSG NEH-1 y NEH-2: Afectacion de materiales de elementos críticos por modificacion en ciclos de arranque”, de fecha 13 de diciembre de 2024, e Informe de John Cockerill, titulado “Critical revamping and assessments – availabity and reliability of Nehuenco HRSGs”, de fecha 11 de diciembre de 2024, y anexos de este ultimo informe de fecha 12 de diciembre 2024.
+
+vi. Informar el motivo por el cual se solicitó a John Cockerill, su pronunciamiento sólo del sobrecalentador de alta presión y no respecto a la totalidad de las roturas de tubos. En una primera instancia solo se solicito a John Cockerill el pronunciamiento acerca de las fallas encontradas en el Sobrecalentador 2 de alta presion dado que los hallazgos eran críticos, ya que se encontraron tubos rotos y se requería con urgencia determinar el procedimiento de reparacion de estos tubos y la busqueda de material. En una etapa posterior, se abordara el analisis de la causa de las fisuras superficiales encontradas en los tubos de los economizadores de alta y media presion y evaporador de media presion, ya que requerira de mayor tiempo de analisis y de la obtencion de muestras para ensayos de laboratorio. Cabe destacar que estas fallas tambien son nuevas en la Caldera y su causa preliminar estaría relacionada al fenomeno de estres termo-mecanico por enfriamiento subito de las partes que estan con alta temperatura durante arranques-paradas frecuentes.
+
+19Critical Revampings and Assessments -Availability and Reliability of Nehuenco HRSGs, emitido por John Cockerill, pp. 37 y 38.
+
+Ahora bien, dado que todos los tubos encontrados con fisuras superficiales fueron reparados y estas reparaciones no requirieron el corte de tubos, no fue posible extraer muestras para ejecutar ensayos en un laboratorio especializado, lo que se dejara para una proxima intervencion programada de la Caldera, con un analisis de John Cockerill mas avanzado.
+
+# vii. Finalmente se solicita informar si se realizaron estudios en terreno de las fallas indicadas.
+
+No se realizaron estudios en terreno de las fallas indicadas, ya que el proceso de determinacion de las causas se dirige a empresas especializadas.
+
+La empresa Inspecciones Tecnicas S-Intec Limitada realizo en terrenolas inspecciones y ensayos no destructivos, y sobre la base de esta informacion se solicito a John Cockerill y al DICTUC, entidades de especializacion tecnica específica y experta, determinar el mecanismo de falla y sus causas.
+
+En el caso del DICTUC, esta entidad realizo la visita a la Caldera de Nehuenco II para inspeccionar la zona afectada y comprender los aspectos relevantes del proceso de operacion, realizando el analisis y emitiendo las conclusiones contenidas en informe titulado “Estudio en HRSG NEH-1 y NEH-2: Afectacion de materiales de elementos críticos por modificacion en ciclos de arranque”, defecha 13 de diciembre de 2024.
+
+Sin otro particular, le saluda atentamente,
+
+Sebastian Ruiz-Tagle Mena
+
+Encargado Titular
+
+COLBÚN S.A.
+
+# Adjuntos:
+
+1. Documento nominado “2024.10.17 Reporte Hallazgos y Reparaciones Caldera HRSG Nehuenco II”, elaborado por Colbun S.A.
+2. Informe titulado “Estudio en HRSG NEH-1 y NEH-2: Afectacion de materiales de elementos críticos por modificacion en ciclos de arranque”, defecha 13 de diciembre de 2024, elaborado por DICTUC.
+3. Informe titulado “Critical revamping and assessments – availabity and reliability of Nehuenco HRSGs”, de fecha 11 de diciembre de 2024, yanexos de fecha 12 de diciembre de 2024, elaborados por John Cockerill.
+4. Link Informes de S-INTEC (disponible por 7 días): https://we.tl/t-LJkC8n97ok

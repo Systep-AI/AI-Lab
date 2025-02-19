@@ -1,0 +1,41 @@
+
+
+# Colbun
+
+# GO Nº 010/2025
+
+Santiago, 21 de enero de 2025
+
+Señor
+
+Ernesto Huber Jara
+
+Director Ejecutivo
+
+Coordinador Eléctrico Nacional
+
+Presente
+
+Ref.: Solicita Ingreso en el Programa de Mantenimiento Mayor de CT Nehuenco 2.
+
+De nuestra consideración:
+
+En relación con el Programa de Mantenimiento Preventivo Mayor de Central Térmica (“CT”) Nehuenco 2, comunico a usted que se debe llevar a cabo la inspección boroscópica en el generador de la turbina de vapor. Adicionalmente, se realizarán las maniobras de blanking plate, para así habilitar la unidad en su forma de Ciclo Abierto, conforme al detalle que se presenta a continuación:
+
+|Central|Descripción|Período solicitado|
+|---|---|---|
+|CT Nehuenco 2 - TG|Fuera de servicio TG para maniobras de blanking plate por habilitación Ciclo Abierto.|08.feb.25 → 09.feb.25|
+|CT Nehuenco 2 - TV|Inspección Boroscopica y medidas eléctricas al rotor Generador Turbina de Vapor.|08.feb.25 → 13.feb.25|
+|CT Nehuenco 2 - TG|Fuera de servicio TG para maniobras de blanking plate por habilitación Ciclo Combinado.|11.feb.25 → 13.feb.25|
+
+Agradecemos a usted considerar esta información para todos los fines relacionados con el Coordinador Eléctrico Nacional.
+
+Sin otro particular, saluda atentamente a usted,
+
+Laue
+
+Sebastián Ruiz‑Tagle Mena
+
+Encargado Titular
+
+COLBÚN S.A.
