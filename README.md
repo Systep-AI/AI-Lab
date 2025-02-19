@@ -1,51 +1,52 @@
-# AI and ML Tools Repository
+# IA-Lab
 
-This repository is designed to provide hands-on tutorials and classes on both Generative AI and Classical Machine Learning techniques. The content is organized into two main sections:
+Este repositorio contiene diversos recursos y ejemplos prácticos sobre Inteligencia Artificial Generativa y su aplicación en el procesamiento de documentos. A continuación se describe la estructura principal y el contenido de cada carpeta:
 
-1. **Generative AI**: Focuses on modern tools and frameworks like LangChain, suitable for building applications with generative AI capabilities.
-2. **Classical ML**: Covers foundational machine learning algorithms and techniques such as regression, decision trees, etc.
+## Estructura Principal
 
-## Repository Structure
+- **LICENSE.md**  
+  Archivo que especifica la licencia bajo la cual se distribuye este repositorio.
+  
+- **README.md**  
+  Este documento, que proporciona una visión general del repositorio.
 
-```
-repository/
-|-- generative_ai/: Tutorials and examples for generative AI tools.
-|-- classical_ml/: Tutorials and examples for classical machine learning techniques.
-```
+- **generative_ai**  
+  Carpeta principal donde se encuentran los notebooks y recursos relacionados con IA Generativa:
+  - **00_intro_ia_generativa.ipynb**  
+    Notebook de introducción a la IA Generativa, describiendo conceptos básicos y casos de uso.
+  
+  - **01_langchain_intro**  
+    - `01_intro_langchain.ipynb`: Ejemplos iniciales de uso de LangChain para integrar modelos de lenguaje en flujos de trabajo.
+    - `langchain.md`: Explicaciones y notas adicionales sobre LangChain.
+  
+  - **02_OCR**  
+    - `02_OCR.ipynb`: Ejemplos de reconocimiento óptico de caracteres (OCR) usando herramientas como LlamaParse.
+    - `template.md`: Plantilla de referencia para la extracción de texto y procesamiento posterior.
+    - `test_documents/`: Contiene documentos PDF de prueba para experimentos con OCR.
+  
+  - **03_docs_summary**  
+    - `03_summarizer.ipynb`: Implementación de resúmenes automáticos para diferentes tipos de archivos.
+    - `doc_1.md`, `doc_2.txt`, `doc_3.txt`, `minuta.md`, `template.md`: Ejemplos y plantillas para la generación de resúmenes.
+  
+  - **04_doc_classification**  
+    - `04_categorizer.ipynb`: Proyectos de clasificación automática de documentos.
+    - `documents/`: Contiene documentos PDF de ejemplo para demostrar métodos de categorización.
+  
+  - **README.md**  
+    Instrucciones generales específicas para la carpeta `generative_ai`.
 
-Each folder contains:
-- Jupyter Notebooks for interactive learning.
-- A `README.md` file with a description of the classes in the folder.
+---
 
-## Requirements and Setup
+## Uso y Ejecución
+Para empezar a trabajar con los notebooks, se recomienda:
+1. Clonar o descargar este repositorio.
+2. Explorar los notebooks en la carpeta `generative_ai` según el tema de interés (Introducción a IA Generativa, OCR, Resúmenes, Clasificación, etc.).
 
-To use this repository, ensure you have Python 3.8 or above installed.
+---
 
-### Setting Up a Virtual Environment
-1. Open a terminal and navigate to the repository directory.
-2. Run the following commands to create and activate a virtual environment:
+## Contribución
+Si deseas contribuir a este proyecto, por favor revisa la licencia y considera abrir un _pull request_ o _issue_ para sugerir mejoras.
 
-   ```bash
-   python3 -m venv env
-   source env/bin/activate  # On Windows: .\env\Scripts\activate
-   ```
+---
 
-3. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### Running Jupyter Notebooks
-1. Ensure the virtual environment is activated.
-2. Launch Jupyter Notebook:
-
-   ```bash
-   jupyter notebook
-   ```
-
-Navigate to the desired folder and open the notebook you want to explore.
-
-## Contributing
-Contributions are welcome! Feel free to submit issues or pull requests to improve the repository.
-
+¡Gracias por visitar IA-Lab!
