@@ -10,4 +10,4 @@ __pycache__/
 # Specific files
 .env
 .codegpt
-.DS_Store/
+.DS_Store
