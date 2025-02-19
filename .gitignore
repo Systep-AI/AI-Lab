@@ -1,5 +1,6 @@
 # Typical files to ignore
 __pycache__/
+
 *.py[cod]
 *:Zone.Identifier
 .ipynb_checkpoints
@@ -9,3 +10,4 @@ __pycache__/
 # Specific files
 .env
 .codegpt
+.DS_Store/
