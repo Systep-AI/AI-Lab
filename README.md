@@ -27,12 +27,7 @@ Este directorio contiene notebooks y recursos relacionados con la Inteligencia A
 
 ---
 
-## Instrucciones de Uso
-1. Explora los notebooks en orden para familiarizarte con la IA Generativa, OCR y resúmenes.
-2. Ajusta cualquier ruta de acceso a datos dentro de los notebooks si fuese necesario.
-3. Instala las dependencias requeridas, por ejemplo, a través de un `requirements.txt` o siguiendo las instrucciones incluidas en cada notebook.
 
----
 
 
 
