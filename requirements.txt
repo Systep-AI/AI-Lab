@@ -1,0 +1,7 @@
+langchain
+langchain_openai
+llama-parse
+nest-asyncio
+langchain-core
+pandas
+openpyxl 
